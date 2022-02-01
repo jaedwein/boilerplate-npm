@@ -1,0 +1,27 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Javier Weinmeister",
+  "description": "A project that does something awesome",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ],
+  "license": "Commons",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaedwein/boilerplate-npm.git"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
